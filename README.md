@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**victor-rk/victor-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer in Training · Full Stack · Cybersecurity
 
-Here are some ideas to get you started:
+I'm an **Analysis and Systems Development student at FATEC Mogi das Cruzes**, focused on building a strong foundation in software development, problem solving, and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests are **Full-Stack Development and Cybersecurity**, with a growing focus on building reliable, scalable, and well-structured software.
+
+I enjoy turning ideas into working solutions and continuously expanding my technical knowledge through hands-on development.
+
+---
+
+## 🧠 About Me
+
+* Analysis and Systems Development student at **FATEC Mogi das Cruzes**
+* Currently focused on **Full-Stack Development**
+* Strong interest in **Cybersecurity**
+* Interested in software architecture, backend development, databases, and modern development practices
+* Always looking for opportunities to learn, build, and improve
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+Full-Stack Development
+Backend Engineering
+Cybersecurity
+Software Architecture
+```
+
+---
+
+## 📚 Education
+
+**FATEC Mogi das Cruzes**
+
+Analysis and Systems Development
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-koti-703b60270/)
+
+---

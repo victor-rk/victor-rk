@@ -41,25 +41,6 @@ I enjoy turning ideas into working solutions and continuously expanding my techn
 
 ---
 
-## 🎯 Areas of Interest
-
-```text
-Full-Stack Development
-Backend Engineering
-Cybersecurity
-Software Architecture
-```
-
----
-
-## 📚 Education
-
-**FATEC Mogi das Cruzes**
-
-Analysis and Systems Development
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-koti-703b60270/)

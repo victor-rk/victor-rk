@@ -6,6 +6,8 @@ I'm an **Analysis and Systems Development student at FATEC Mogi das Cruzes**, fo
 
 My current interests are **Full-Stack Development and Cybersecurity**, with a growing focus on building reliable, scalable, and well-structured software.
 
+Experienced in Web Design, translating visual concepts and UI/UX requirements into functional web interfaces
+
 I enjoy turning ideas into working solutions and continuously expanding my technical knowledge through hands-on development.
 
 ---
@@ -43,6 +45,7 @@ I enjoy turning ideas into working solutions and continuously expanding my techn
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-koti-703b60270/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rk/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/victor-rk)
 
 ---

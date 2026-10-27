@@ -1,6 +1,6 @@
  <div align="center">
 
-### Tecnologia da Informação · Desenvolvimento de Software · Cibersegurança
+#Victor Riki
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rk/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/victor-rk)
